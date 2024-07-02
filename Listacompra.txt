@@ -10,3 +10,7 @@ arroz
 pollo
 colorante
 caldo de pollo
+ron
+zumo
+naranja
+hielo
